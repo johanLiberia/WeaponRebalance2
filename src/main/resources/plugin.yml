@@ -1,0 +1,13 @@
+name: WeaponRebalance
+version: 1.0
+main: com.rebalance.Main
+api-version: '1.21'
+description: Plugin for rebalancing weapons and armor stats.
+author: YourName
+commands:
+  wrreload:
+    description: Reloads the config.
+    permission: wr.admin
+permissions:
+  wr.admin:
+    default: op

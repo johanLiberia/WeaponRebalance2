@@ -1,0 +1,47 @@
+# ⚔️ МЕЧИ
+swords:
+  WOODEN_SWORD: { damage: 3.0, speed: 1.0 }
+  STONE_SWORD: { damage: 4.0, speed: 1.0 }
+  IRON_SWORD: { damage: 5.0, speed: 1.0 }
+  GOLDEN_SWORD: { damage: 3.5, speed: 1.8 }
+  DIAMOND_SWORD: { damage: 6.0, speed: 1.0 }
+  NETHERITE_SWORD: { damage: 7.0, speed: 1.0 }
+
+# 🪓 ТОПОРЫ
+axes:
+  WOODEN_AXE: { damage: 5.5, speed: 0.5 }
+  STONE_AXE: { damage: 6.5, speed: 0.5 }
+  IRON_AXE: { damage: 7.5, speed: 0.6 }
+  GOLDEN_AXE: { damage: 5.0, speed: 1.2 }
+  DIAMOND_AXE: { damage: 8.0, speed: 0.6 }
+  NETHERITE_AXE: { damage: 8.5, speed: 0.6 }
+
+# 🎯 ОСОБОЕ ОРУЖИЕ
+special_weapons:
+  MACE: { damage: 1.0 }
+  TRIDENT: { damage: 8.0 }
+
+# 🛡️ ЩИТ
+shield:
+  durability: 200
+  creeper_breaks_shield: true
+  creeper_hits_to_break: 2
+
+# 🛡️ БРОНЯ
+armor:
+  LEATHER_CHESTPLATE: { armor: 1.5, toughness: 0.0, knockback: 0.0 }
+  LEATHER_LEGGINGS: { armor: 1.0, toughness: 0.0, knockback: 0.0 }
+  CHAINMAIL_CHESTPLATE: { armor: 3.0, toughness: 0.0, knockback: 0.0 }
+  CHAINMAIL_LEGGINGS: { armor: 2.0, toughness: 0.0, knockback: 0.0 }
+  IRON_CHESTPLATE: { armor: 4.0, toughness: 0.0, knockback: 0.0 }
+  IRON_LEGGINGS: { armor: 3.0, toughness: 0.0, knockback: 0.0 }
+  GOLDEN_CHESTPLATE: { armor: 5.0, toughness: 0.0, knockback: 0.0 }
+  DIAMOND_HELMET: { armor: 0.0, toughness: 1.0, knockback: 0.0 }
+  DIAMOND_CHESTPLATE: { armor: 5.0, toughness: 1.0, knockback: 0.0 }
+  DIAMOND_LEGGINGS: { armor: 4.0, toughness: 1.0, knockback: 0.0 }
+  DIAMOND_BOOTS: { armor: 0.0, toughness: 1.0, knockback: 0.0 }
+  NETHERITE_HELMET: { armor: 0.0, toughness: 2.0, knockback: 0.05 }
+  NETHERITE_CHESTPLATE: { armor: 6.0, toughness: 2.0, knockback: 0.05 }
+  NETHERITE_LEGGINGS: { armor: 5.0, toughness: 2.0, knockback: 0.05 }
+  NETHERITE_BOOTS: { armor: 0.0, toughness: 2.0, knockback: 0.05 }
+  TURTLE_HELMET: { armor: 3.0, toughness: 1.0, knockback: 0.0 }
